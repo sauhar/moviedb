@@ -145,7 +145,7 @@ section {
 	font-size: 18px;
 	font-weight: 700;
 
-	background: #4484C4;
+	background: #3b9362;
 	color: #FFF;
 	border-radius: 8px;
 	border: none;
@@ -157,7 +157,7 @@ section {
 }
 
 .popup .content .close:hover {
-	background: #223343;
+	background: #2a6645;
 }
 ul {
 	list-style: none;
